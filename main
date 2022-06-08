@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<div style="Background:gray;">
+<meta charset="UTF-8">
+
+<head>
+   
+	<title>VisouX - You at the TOP!</title>
+	<style>
+</style>
+   <nav> Language </nav>
+    <li> Portuguese </li>
+    <li> English </li>
+</head>
+
+<body style = "background-color:white;width: 70%; margin-left:50px;">
+<h1> ViSOUX As company<h1>
+<p> Visoux is a company based in uk. It was created since the customer wishes to become more recognised,
+well-seing and well located in the web and real life.</p>
+<ul>
+We have some brands as:
+
+        <li> <a href="about.htm" title="VX-Digital">VISOUX-Digital MKT</a></li>
+        <li> <a href="Projects.htm" title="VX Fashion">VISOUX-MyVX(fashion)</a></li>
+        <li> <a href="Mycareer.htm" title=" VX finest">VISOUX-Finest(Drinks)</a></li>
+        <li> <a href="home.htm" title="VX Investments">VISOUX-Investments</a></li>
+	<li> <a href="home.htm" title="VX Tech">VISOUX-TECNOLOGY</a></li>
+	<li> <a href="home.htm" title="VX Green">VISOUX-GREEN</a></li>
+	<li> <a href="home.htm" title="VX Hunger">VISOUX-Hunger</a></li>
+
+
+    </ul>
+
+
+<footer>
+    <ul>
+        <li> <a href="about.htm" title="About">About Us</a></li>
+        <li> <a href="Projects.htm" title="Projects in web">About Us</a></li>
+        <li> <a href="Mycareer.htm" title=" My career life">About Us</a></li>
+        <li> <a href="home.htm" title="About">About Us</a></li>
+    </ul>
+ </footer>   
+    
+</body>
+</div>
